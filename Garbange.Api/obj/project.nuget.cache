@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIRr/LdKcxTz1++4RePlbx9COR5vtWKC1ex+BEoc8krmmTOBrstPtGRrnbJDYyPC8jttCMdYzQIq0PZCWsrb4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\javix\\Downloads\\GarbangeApp\\Garbange.Api\\Garbange.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javix\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\javix\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\javix\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\javix\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\javix\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\javix\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
